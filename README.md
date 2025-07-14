@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)
 <h1 align="center">Hi 👋, I'm Sejal Kumari</h1>
-<h3 align="center">A passionate AI/ML developer from India leveraging Python and full-stack tools to build impactful solutions in agriculture, finance, and social good.🌍</h3>
+<h3 align="center">A passionate AI/ML developer from India, leveraging Python and full-stack tools to build impactful solutions in agriculture, finance, and social good.🌍</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalkumari0424&label=Profile%20views&color=0e75b6&style=flat" alt="sejalkumari0424" /> </p>
